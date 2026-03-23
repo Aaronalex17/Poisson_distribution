@@ -1,6 +1,5 @@
 # Fitting Poisson  distribution
-# NAME : AARON ALEX P
-# REG.NO: 212224230002
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
